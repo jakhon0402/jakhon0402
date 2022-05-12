@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jakhon0402
 - 👀 I’m interested in DataScience/AI, creating smart devices, web applications and game development.
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Java Backend
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me jahon77king@gmail.com
 
